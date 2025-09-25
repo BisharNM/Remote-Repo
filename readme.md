@@ -1,2 +1,2 @@
-## Add Git File
-- add new "feater"
+## Add Git changes
+- add new sub branch "feater"
